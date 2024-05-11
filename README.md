@@ -1,15 +1,23 @@
-# task_flutter_app
+# Flutter Task Management Application - QuickTask
 
-A new Flutter project.
+QuickTask is a simplified task management app designed to help users organize their tasks efficiently.
+This project aims to introduce students to Flutter and Back4App by building a basic task management app with essential features.
+
+## Building Application
+
+Run the project in Android Studio and install the dependencies
+```console
+$ flutter pub get
+```
+```console
+$ flutter run
+```
+
+Or start the application using the Run icon in Android Studio 
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
